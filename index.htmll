@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VALENNA | Assistente Virtual</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="container">
+
+        <header class="header">
+            <h1>VALENNA</h1>
+            <p>ELEGÂNCIA EM CADA DETALHE</p>
+        </header>
+
+        <section class="chat">
+
+            <div class="chat-header">
+                <div class="avatar">V</div>
+                <div>
+                    <h2>Val</h2>
+                    <span>Assistente Virtual VALENNA</span>
+                </div>
+                <span class="online">● Online</span>
+            </div>
+
+            <div class="messages" id="messages">
+                <div class="message bot">
+                    Olá! Seja muito bem-vinda à VALENNA! ✨
+
+                    Sou a Val, sua assistente virtual.
+                    Como posso ajudar você hoje?
+                </div>
+            </div>
+
+            <form id="chatForm">
+                <input
+                    type="text"
+                    id="userInput"
+                    placeholder="Digite sua mensagem..."
+                    autocomplete="off"
+                    required
+                >
+                <button type="submit" id="sendButton">➤</button>
+            </form>
+
+            <footer>
+                VALENNA • Elegância em cada detalhe
+            </footer>
+
+        </section>
+    </main>
+
+    <script src="chat.js"></script>
+</body>
+</html>

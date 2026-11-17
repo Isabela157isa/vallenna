@@ -1,0 +1,10 @@
+valenna-chatbot/
+│
+├── public/
+│   ├── index.html
+│   ├── style.css
+│   └── chat.js
+│
+├── server.js
+├── package.json
+└── .env

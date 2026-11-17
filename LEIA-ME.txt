@@ -1,0 +1,30 @@
+VALENNA — SITE INSTITUCIONAL E COMERCIAL
+
+COMO ABRIR:
+1. Extraia a pasta valenna-site do arquivo ZIP.
+2. Abra o VS Code.
+3. Clique em Arquivo > Abrir Pasta e selecione valenna-site.
+4. Abra index.html no navegador (ou use a extensão Live Server).
+5. Navegue pelo menu para acessar as páginas.
+
+ARQUIVOS:
+- index.html: página inicial
+- empresa.html: apresentação da empresa
+- missao.html, visao.html, valores.html: páginas institucionais
+- colecao.html: vitrine de produtos
+- chatbot.html: atendimento automático
+- contato.html: WhatsApp e Instagram
+- css/style.css: estilos de todas as páginas
+- js/main.js: menu responsivo
+- js/chatbot.js: respostas do chatbot
+
+CONTATOS CONFIGURADOS:
+WhatsApp: https://wa.me/551978363549
+Instagram: https://instagram.com/valenna
+
+IMPORTANTE:
+- Confirme que o WhatsApp e o Instagram são os canais oficiais.
+- As imagens de produtos são ilustrativas e carregadas do Unsplash; substitua pelas fotos reais.
+- O chatbot usa respostas programadas, não IA conectada.
+- Textos institucionais são uma proposta inicial; ajuste para refletir a história e as práticas reais da empresa.
+- As fontes e imagens externas dependem de conexão com a internet.
